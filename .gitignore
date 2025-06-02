@@ -60,3 +60,17 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+.DS_Store
+
+# SwiftPM
+.swiftpm/
+Package.resolved
+Package.pins
+
+# Xcode project/workspace
+*.xcodeproj
+*.xcworkspace
+
+# IDEs
+.idea/
+.vscode/
